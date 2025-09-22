@@ -53,5 +53,5 @@ This project:
 
 1. 📥 **Clone the repository**  
    ```bash
-   git clone https://github.com/Smasher5/auth-assignment.git
-   cd auth-assignment
+   git clone https://github.com/Smasher5/authentication-in-nodejs.git
+   cd authentication-in-nodejs
